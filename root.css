@@ -1,0 +1,38 @@
+:root {
+  --clr-primary: #1c1d1c;
+  --clr-link: #626a72;
+  --clr-search: #a5afb8;
+  --clr-banner: #edf3ff;
+  --font-primary: "Inter", sans-serif;
+  --clr-bckg-hero: linear-gradient(
+      54deg,
+      rgba(255, 131, 122, 0.25),
+      rgba(255, 131, 122, 0) 28%
+    ),
+    linear-gradient(
+      241deg,
+      rgba(239, 152, 207, 0.25),
+      rgba(239, 152, 207, 0) 36%
+    );
+  --clr-secondaryhero: #f5f6f7;
+  --clr-bckg-image: linear-gradient(
+      54deg,
+      rgba(255, 131, 122, 0.25),
+      rgba(255, 131, 122, 0) 28%
+    ),
+    linear-gradient(
+      241deg,
+      rgba(239, 152, 207, 0.25),
+      rgba(239, 152, 207, 0) 36%
+    );
+    --clr-primaryresources: radial-gradient(
+      circle farthest-corner at 0% 50%,
+      rgba(255, 1, 1, 0.15),
+      transparent 47%
+    ),
+    radial-gradient(
+      circle farthest-corner at 40% 130%,
+      rgba(122, 167, 255, 0.41),
+      transparent 58%);
+      
+}
